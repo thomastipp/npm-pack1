@@ -1,11 +1,11 @@
 {
   "name": "@deneuve9/npm-pack1",
-  "version": "1.0.0",
+  "version": "1.2.1",
   "description": "",
   "main": "index.js",
-  "publishConfig":{
-     "@deneuve9:registry": "https://npm.pkg.github.com" 
- },
+  "publishConfig": {
+    "@deneuve9:registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "test": "exit 0"
   },
