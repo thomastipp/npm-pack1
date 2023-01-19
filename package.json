@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/deneuve9/npm-pack1/issues"
   },
-  "homepage": "https://github.com/deneuve9/npm-pack1#readme"
+  "homepage": "https://github.com/deneuve9/npm-pack1#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
