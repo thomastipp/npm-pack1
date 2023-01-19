@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/deneuve9/npm-pack1#readme",
   "dependencies": {
-    "nodemon": "^2.0.20"
+    "nodemon-test-deneuve": "^2.0.20"
   }
 }
